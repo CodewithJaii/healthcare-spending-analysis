@@ -22,5 +22,9 @@ This project analyzes healthcare spending trends across different U.S. regions u
 2. Open the Jupyter Notebook and run the analysis.
 3. Upload the provided CSV files to IBM Cognos for further visualization.
 
+## Healthcare Spending Dashboard (IBM Cognos)
+The following dashboard provides an overview of healthcare spending trends and insights:
+[View the full dashboard here](Healthcare_spending.pdf)
+
 ## License
 This project is for educational purposes only.
